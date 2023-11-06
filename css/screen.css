@@ -9,11 +9,6 @@ body {
     padding: 0;
 }
 
-body.demo {
-    background: #2b3990;
-    background: linear-gradient(45deg, #2b3990 0%, #92278f 100%);
-}
-
 #main {
     position: fixed;
     top: 0;
